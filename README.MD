@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Canva](https://www.canva.com/dream-lab)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,35 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  título  | Você é um escritor de Ebook e vamos criar um ebook que vai contar a história de forma bem humorada dos 3 títulos mundiais de Fórmula 1 de Ayrton Senna e eu gostaria de uma ajuda para criar 5 sugestões de nome criativos para nosso Ebook como algum trocadilho engraçado utilizado pelo famoso narrador Rômulo Mendonça.
+O Ebook vai falar sobre os principais momentos e curiosidades dos 3 títulos de Ayrton Senna na Fórmula 1.
+                                                        |
+| conteúdo |Você é um escritor de Ebook e vamos criar um ebook que vai contar de forma bem humorada  a história dos 3 títulos mundiais de Fórmula 1 de Ayrton Senna e eu gostaria de uma ajuda para criar o texto para nosso Ebook, cujo nome será Ayrton Senna Imortal.
+O formato do roteiro deve ser: 
+[CAPÍTULO 1]
+ [CAPÍTULO 2]
+ [CAPÍTULO 3]
+{REGRAS}
+- No bloco [CAPÍTULO 1] substitua por um resumo do primeiro títulos Mundial de Ayrton Senna em 1988
+- No bloco [CAPÍTULO 2] Substitua por um resumo do segundo título Mundial de Ayrton Senna em 1990
+- No bloco [CAPÍTULO 3] ] Substitua por um resumo do segundo título Mundial de Ayrton Senna em 1990
+{REGRAS}
+O roteiro deve sempre apresentar qualquer número, escrito por extenso em língua portuguesa do Brasil. - Gerar uma imagem de capa para o e-book - Gerar uma imagem de capítulo para cada resumo que tenha a ver com cada [filme] resumido, criando imagens genéricas mas alinhadas ao [filme] ou ao narrador do resumo do [filme]. - Gerar um índice e uma página de agradecimento, com imagem, e informando que o conteúdo foi criado por IA e montado por humano. {REGRAS NEGATIVAS} - Não use muitos termos técnicos. [ 
+Você é um roteirista de e-book, e vamos criar um ebook com resumos dos 3 títulos mundiais de Ayrton Senna e apresentado de forma engraçada, cujo o nome é "Ayrton Senna Imortal", subtítulo é "" A história dos 3 títulos mundiais."" e tem foco no mundo da Fórmula 1, com o público alvo de fãs de Ayrton Senna.
+  O formato do roteiro deve ser [INTRODUÇÃO][RESUMO] para os [título]: Título Mundial de 1988, Título Mundial de 1990 e Título Mundial de 1991 
+{REGRAS} 
+- no bloco [INTRODUÇÃO] Faça um breve introdução sobre a história de Ayrton Senna na Fórmula 1. 
+- no bloco [RESUMO] substitua por um resumo bem humorado, como se estivesse sendo escrito pelo Youtuber Whinderson Nunes contando os principais momentos e uma curiosidade de cada título mundial
+- Gerar uma imagem de capa para o e-book
+ - Gerar uma imagem de capítulo para cada resumo que tenha a ver com cada [titulo] resumido, criando imagens genéricas mas alinhadas ao [titulo] 
+- Gerar um índice e uma página de agradecimento, com imagem, e informando que o conteúdo foi criado por IA e montado por humano. 
+- Crie um texto enxuto para cada [título]
+|
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Canva
 
 ## 📚 Materiais
 
@@ -65,6 +80,8 @@ Midjourney：
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
+
+RodrigoBorges86
 
 <p>
     <img 
