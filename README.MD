@@ -40,8 +40,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um escritor de Ebook e vamos criar um ebook que vai contar a história de forma bem humorada dos 3 títulos mundiais de Fórmula 1 de Ayrton Senna e eu gostaria de uma ajuda para criar 5 sugestões de nome criativos para nosso Ebook como algum trocadilho engraçado utilizado pelo famoso narrador Rômulo Mendonça.
-O Ebook vai falar sobre os principais momentos e curiosidades dos 3 títulos de Ayrton Senna na Fórmula 1.
+|  título  | Você é um escritor de Ebook e vamos criar um ebook que vai contar a história de forma bem humorada dos 3 títulos mundiais de Fórmula 1 de Ayrton Senna e eu gostaria de uma ajuda para criar 5 sugestões de nome criativos para nosso Ebook como algum trocadilho engraçado utilizado pelo famoso narrador Rômulo Mendonça. O Ebook vai falar sobre os principais momentos e curiosidades dos 3 títulos de Ayrton Senna na Fórmula 1.
                                                         |
 | conteúdo |Você é um escritor de Ebook e vamos criar um ebook que vai contar de forma bem humorada  a história dos 3 títulos mundiais de Fórmula 1 de Ayrton Senna e eu gostaria de uma ajuda para criar o texto para nosso Ebook, cujo nome será Ayrton Senna Imortal.
 O formato do roteiro deve ser: 
