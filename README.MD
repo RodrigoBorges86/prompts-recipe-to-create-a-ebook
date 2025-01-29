@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/Ayton_Senna_McLaren.png">
+    <img width="100" src=".github/assets/Ayrton_Senna_McLaren.jpg">
 </p>
 
 
